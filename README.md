@@ -2,7 +2,7 @@
 
 ## Overview
 
-CryptoHunterX is a powerful and versatile cryptocurrency wallet recovery tool that allows users to efficiently and securely regain access to their lost digital assets. Whether you're using a PC or an Android device, CryptoHunterX is designed to provide a seamless experience for wallet recovery. 
+CryptoHunterX is a powerful and versatile cryptocurrency wallet recovery tool that allows users to efficiently and securely findr lost crypto wallet. Whether you're using a PC or an Android device, CryptoHunterX is designed to provide a seamless experience for wallet recovery. 
 
 ### Features
 
