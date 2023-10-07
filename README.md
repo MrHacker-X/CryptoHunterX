@@ -50,7 +50,7 @@ CryptoHunterX is optimized for speed, ensuring rapid wallet recovery. Here's a b
 
 ## Where to Buy
 
-To purchase CryptoHunterX or learn more about this powerful wallet finder tool, please contact [@ethicxbot](https://telegram.me/ethicxbot) on Telegram or visit our [Instagram](https://instagram.com/haxorlex) page.
+To purchase CryptoHunterX, please contact me on  [Instagram](https://instagram.com/haxorlex) page.
 
 
 ## Screenshots
